@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Twitch Bot for Dota 2 streamers
 
 <p align="center">
@@ -105,6 +104,4 @@ To run this project, you will need to add the following environment variables to
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
-=======
 # Twitch-Bot
->>>>>>> 70c149f6a33d378f10c1d039385babc61110b3be
