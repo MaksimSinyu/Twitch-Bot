@@ -1,0 +1,131 @@
+
+{
+    "remove_bot": {
+        "en": "Success. Its a pity to miss you.. :(",
+        "ru": "Успех. Мне жаль терять тебя.. :("
+    },
+    "dont_have_bot": {
+        "en": "You don't have the @TwitchDotaBot on your channel :(",
+        "ru": "У вас на канале нету @TwitchDotaBot :("
+    },
+    "first": {
+        "en": "{0} Hi! Welcome to my stream! Follow me and enjoy! <3",
+        "ru": "{0} Привет! Добро пожаловать на мой канал! Нажимай фолоу и присаживайся поудобней! <3"
+    },
+    "help": {
+        "en": "{0}, KonCha My commands - !help, !follow, !hero, !rank, !wr, !mymmr, !last, !donate, !social.",
+        "ru": "{0}, KonCha Доступные команды - !help, !follow, !hero, !rank, !wr, !mymmr, !last, !donate, !social."
+    },
+    "donate": {
+        "en": "{0} Support me: {1}  TehePelo",
+        "ru": "{0} Поддержать меня: {1}  TehePelo"
+    },
+    "did_not_setup": {
+        "en": "You didn't setup me. Please, visit twitch.tv/twitchdotabot",
+        "ru": "Вы не настроили меня. Пожалуйста, посетите twitch.tv/twitchdotabot"
+    },
+    "already_setup_dota": {
+        "en": "You have already set up the Dota 2 player ID! Use !change_dota instead.",
+        "ru": "Вы уже закончили настройку Dota 2 ID. Вместо этого, используйте !change_dota."
+    },
+    "already_setup_socials": {
+        "en": "You have already set up your socials! Use !change_socials instead.",
+        "ru": "Вы уже закончили настройку ссылок на социальные сети. Вместо этого, используйте !change_socials."
+    },
+    "already_setup_donation": {
+        "en": "You have already set up the donation link! Use !change_donation instead.",
+        "ru": "Вы уже закончили настройку пожертвований. Вместо этого, используйте !change_donation."
+    },
+    "social": {
+        "en": "{0} <3  You can find me here: {1}",
+        "ru": "{0} <3  Ты можешь найти меня тут: {1}"
+    },
+    "wr_no_games": {
+        "en": "{0}, Perhaps, there were no games today.. PunOko",
+        "ru": "{0}, Наверное, сегодня еще не было сыграно ни одной игры.. PunOko"
+    },
+    "last_game_result_win": {
+        "en": "WIN VoteYea",
+        "ru": "ПОБЕДА ПОБЕДА ПОСЛЕ ОБЕДА VoteYea"
+    },
+    "last_game_result_lose": {
+        "en": "LOSE VoteNay",
+        "ru": "ПОРАЖЕНИЕ VoteNay"
+    },
+    "last_game_info": {
+        "en": "{0}, {1}, {2}/{3}/{4}. Duration - {5}. Game: {6}",
+        "ru": "{0}, {1}, {2}/{3}/{4}. Длительность - {5}. Игра: {6}"
+    },
+    "mymmr": {
+        "en": "{0}, You are - {1} mmr {2} {3}",
+        "ru": "{0}, Ты - {1} ммр {2} {3}"
+    },
+    "change_error": {
+        "en": "An error occurred during {0}",
+        "ru": "Возникла ошибка во время {0}"
+    },
+    "bot_help": {
+        "en": "Hi! If you want to add @twitchdotabot to your channel - use the !add_bot command. Switch language to Russian - !change_language russian. You will need to setup the bot afterwards. Please use !setup_help :)",
+        "ru": "Привет! Если ты хочешь добавить @twitchdotabot на свой канал - используй команду !add_bot. Поменять язык на английский - !change_language english. После этого, тебе надо настроить бота. Используй !setup_help :)"
+    },
+    "check_setup_process_success": {
+        "en": "Congratulation! You are now able to use the bot! Good luck in your adventure!",
+        "ru": "Поздравляю! Теперь ты можешь использовать бота. Удачи в твоем путешествии!"
+    },
+    "check_setup_process_failure": {
+        "en": "You have some more steps left. In case you struggle, just use !setup_help.",
+        "ru": "Тебе осталось еще пару шагов. Если тяжело, используй !setup_help."
+    },
+    "setup_failure": {
+        "en": "You forgot about !add_bot :(",
+        "ru": "Вы забыли про !add_bot :("
+    },
+    "setup_success": {
+        "en": "Success.",
+        "ru": "Успех."
+    },
+    "setup_completed": {
+        "en": "Setup is already completed. Good luck in your adventure! :)",
+        "ru": "Настройка уже завершена. Удачи в вашем пути! :)"
+    },
+    "setup_help": {
+        "en": "To setup the bot, you need to use 4 commands in ANY order. Commands are: !setup_donation, !setup_steam, !setup_dota, !setup_socials. More help and information about all commands you can find in documentation under twitch.tv/twitchdotabot/about. :)",
+        "ru": "Чтобы настроить бота, тебе понадобятся 4 команды которые можно использовать в ЛЮБОМ порядке. Комманды: !setup_donation, !setup_steam, !setup_dota, !setup_socials. Больше помощи с командами ты сможешь найти в документации под twitch.tv/twitchdotabot/about. :)"
+    },
+    "dota_id_not_setup": {
+        "en": "{0}, You can't use this command yet. Please, setup your Dota ID by using !setup_dota {id}.",
+        "ru": "{0}, Вы еще не можете использовать эту команду. Пожалуйста, установите свой Dota ID использовав !setup_dota {id}. "
+    },
+    "donation_not_setup": {
+        "en": "{0}, You can't use this command yet. Please, setup your donation link by using !setup_donation {link}.",
+        "ru": "{0}, Вы еще не можете использовать эту команду. Пожалуйста, установите свою ссылку для пожертвований использовав !setup_donation {link}. "
+    },
+    "socials_not_setup": {
+        "en": "{0}, You can't use this command yet. Please, setup your social links by using !setup_social {link} {link}...",
+        "ru": "{0}, Вы еще не можете использовать эту команду. Пожалуйста, установите ссылку для пожертвований использовав !setup_social {link} {link}... "
+    },
+    "is_not_following": {
+        "en": "{0}, Apparently, you are missing follow on my channel... PunOko",
+        "ru": "{0}, Судя по всему, ты забыл зафоловиться на меня... PunOko"
+    },
+    "follow_age": {
+        "en": "{0}, You are following me: {1} already. TTours ",
+        "ru": "{0}, Ты на меня подписан уже: {1}. TTours "
+    },
+    "donate_routine": {
+        "en": "Support me: {0} TehePelo",
+        "ru": "Поддержать меня: {0} TehePelo"
+    },
+    "hero": {
+        "en": "{0}, My signature hero - {1}. {2} games with win rate {3}. WOW!",
+        "ru": "{0}, Моя сигнатурка - {1}. {2} игр с винрейтом {3}. WOW!"
+    },
+    "set_hero": {
+        "en": "Success. New hero - {0}. {1} games with {2} win rate.",
+        "ru": "Успех. Новый герой - {0}. {1} игр с винрейтом {2}."
+    },
+    "hero_failure": {
+        "en": "{0}, failure. Change hero name and try again.",
+        "ru": "{0}, ошибка. Поменяй имя героя и попробуй еще раз."
+    }
+}
